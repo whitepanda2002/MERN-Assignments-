@@ -1,1 +1,9 @@
-
+/client
+  ├── src
+  │   ├── components
+  │   │   ├── Hero.jsx
+  │   │   ├── Navbar.jsx
+  │   │   ├── ProductList.jsx
+  │   │   ├── Footer.jsx
+  │   └── App.jsx
+  └── tailwind.config.js
